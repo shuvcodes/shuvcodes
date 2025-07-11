@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Shuvodeep Dutta
 
-<!--
-**shuvcodes/shuvcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Data Science @ CMI  
+🔍 Interested in ML, Quant Finance, and Real-world Optimization  
+🎯 Preparing for roles in Data Science & Quantitative Analytics  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, SQL, Pandas, Scikit-learn, Matplotlib, Streamlit
+- Machine Learning, Statistics, Time Series, NLP
+- Git, Docker, Jupyter, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+### 🧠 [Credit Default Prediction](https://github.com/shuvodeepdutta/credit-default-prediction)
+Binary classification on credit data. Includes EDA, logistic regression, random forest, and model evaluation (ROC, confusion matrix).
+
+### 📊 [Loan Risk Dashboard](https://github.com/shuvodeepdutta/loan-risk-dashboard)
+Streamlit dashboard to visualize loan application risk using a trained ML model.
+
+### 🧬 [Customer Segmentation](https://github.com/shuvodeepdutta/customer-segmentation)
+Used PCA and K-means to cluster customers in a synthetic banking dataset. Visualizations included.
+
+### 🧠 [LeetCode Practice](https://github.com/shuvodeepdutta/leetcode-sql-python)
+Python + SQL solutions to data structures, algorithms, and SQL interview problems.
+
+---
+
+## 📫 Let's connect
+- 📧 Email: shuv6262@gmail.com  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/shuv-dutta/])  
+- 📊 [Portfolio]
+
