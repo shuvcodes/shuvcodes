@@ -16,7 +16,7 @@ Binary classification on credit data. Includes EDA, logistic regression, random 
 ### 📊 [Loan Risk Dashboard](https://github.com/shuvodeepdutta/loan-risk-dashboard)
 Streamlit dashboard to visualize loan application risk using a trained ML model.
 
-### 🧬 [Customer Segmentation](https://github.com/shuvodeepdutta/customer-segmentation)
+### 🧬 [Customer Segmentation]([https://github.com/shuvcodes/House_Price_Recommender])
 Used PCA and K-means to cluster customers in a synthetic banking dataset. Visualizations included.
 
 ### 🧠 [LeetCode Practice](https://github.com/shuvodeepdutta/leetcode-sql-python)
